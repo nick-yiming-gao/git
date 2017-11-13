@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//resources/normal/input.csv=UTF-8
+encoding//resources/normal/metadata.csv=UTF-8
+encoding//resources/normal/output.csv=UTF-8
+encoding//resources/special-chars/input.csv=UTF-8
+encoding//resources/special-chars/metadata.csv=UTF-8
+encoding//resources/wrong-metadata-type/input.csv=UTF-8
+encoding//resources/wrong-metadata-type/metadata.csv=UTF-8
